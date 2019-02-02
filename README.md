@@ -1,2 +1,5 @@
-# SortingTool
-The code performs the reading task: it saves every integer from the console to the variable number.
+# SortingTool 
+Stage #2:
+Searches for strings and words with the longest length. 
+Search is implemented for different command line arguments.
+
